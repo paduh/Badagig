@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/codeperfect/Documents/dev/Project/Client/Mobile/iOS/badagig/Badagig.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Badagig.xcodeproj">
+   </FileRef>
+</Workspace>
