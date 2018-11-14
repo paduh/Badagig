@@ -78,15 +78,15 @@ let HEADER_IMAGE_UPLOAD = [
 //AWS
 let REGION = "us-west-2"
 let BUCKET = "badagig"
-let IDENTITY_POOL_ID = "us-west-2:bc2d88f1-ad3e-45b2-a9b2-839b4b953ba3"
+let IDENTITY_POOL_ID = "**********"
 
 //Nexmo Verify
-let APPLICATION_ID = "0f6528aa-6dec-478a-8afb-ddb599b04264"
-let SHARED_SECRET = "8a84e8efbe9f0a4"
+let APPLICATION_ID = "********"
+let SHARED_SECRET = "********"
 
 
 // Google SDK Configuration
-let GOOGLE_CLIENT_ID = "706248977090-d7oggbjbl9snv75vijrhhqgvmbs67o84.apps.googleusercontent.com"
+let GOOGLE_CLIENT_ID = "********"
 
 // Storyboard Identifiers for VC
 let MAIN_VC = "mainVC"
